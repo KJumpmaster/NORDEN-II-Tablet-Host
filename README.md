@@ -1,6 +1,6 @@
 Initial Release
 
-[![Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com)
+☕ **[Support my work on Buy Me A Coffee](https://buymeacoffee.com)**
 
 
 NORDEN II Tablet Server v1.0.0 introduces tablet access to selected NORDEN II planning and reference tools. The server runs on your Windows PC and allows a tablet connected to the same local network to open the supported modules through a web browser.
