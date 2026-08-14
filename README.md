@@ -1,7 +1,6 @@
 Initial Release
 
-☕ **[Support my work on Buy Me A Coffee](https://buymeacoffee.com)** VANGUARDC4
-
+☕ **[Support my work on Buy Me a Coffee](https://buymeacoffee.com/VANGUARDC4)**
 
 NORDEN II Tablet Server v1.0.0 introduces tablet access to selected NORDEN II planning and reference tools. The server runs on your Windows PC and allows a tablet connected to the same local network to open the supported modules through a web browser.
 
